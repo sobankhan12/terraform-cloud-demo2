@@ -1,6 +1,6 @@
 variable "mybucket-name" {
   type    = string
-  default = "mysobanaws3-bucket252"
+  default = "mysobanaws3-bucket2521"
 
 
 }
